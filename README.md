@@ -1,7 +1,7 @@
 # Data-Driven Insights for Music Success
 
 ## Introduction
-In today’s creator-driven economy, data-driven insights are crucial for identifying what drives success in the music industry. Collaboration among artists is common, and music and short-form videos now synergize to create greater value. ABOT Wall Consultants specializes in market research for the music industry, providing insights to aid creative music decisions. This repository documents our project aimed at investigating the factors contributing to song success beyond traditional metrics.
+In today’s creator-driven economy, data-driven insights are crucial for identifying what drives success in the music industry. Collaboration among artists is common, and music and short-form videos now synergize to create greater value. This repository documents my project aimed at investigating the factors contributing to song success beyond traditional metrics.
 
 ## Objective
 The aim of this project is to investigate and map the factors that make a song successful beyond the traditional metrics in music. Through our analysis, we aim to visualize the effect of these factors to potentially aid creative music decisions through the power of data-driven decision-making.
